@@ -1,0 +1,8 @@
+{
+  "name": "Smart Crop Advisor",
+  "description": "AI-powered agricultural decision support system using Gaussian Naive Bayes to recommend optimal crops based on soil nutrients and meteorological parameters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
